@@ -6,7 +6,7 @@
 - **線上筆記**：編輯一個**甲班_學號_姓名.md**，內容放入可成功連線至線上公開網址，**筆記第一行請標註自己的學號姓名**，篇幅不限
 - 編輯MD檔可參閱[GitHub Markdown語法簡介中文版](https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e)
 ---
-## 繳交方式：先fork這個倉庫，在這個目錄下新增自己的一個MD檔**甲班_學號_姓名.md**，發Pull Request請老師檢驗(由老師合併到這個倉庫)
+## 繳交方式：先fork這個倉庫，在這個目錄下新增自己的一個MD檔：**甲班_學號_姓名.md**，發Pull Request請老師檢驗(由老師合併到這個倉庫)
 - 發PR程序參考1.[GitHub 該如何發 PR(pull reqest)](https://hsiangfeng.github.io/git/20190615/4143994266/)
 - 發PR程序參考2.[親愛的，我把 GitHub 拿來收作業了!](https://kaochenlong.com/2017/12/12/use-github-for-homework/)
 ## 注意事項
